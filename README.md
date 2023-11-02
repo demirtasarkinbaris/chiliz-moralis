@@ -1,7 +1,3 @@
-# Virtual Meet Complete
-
-Complete version of the Virtual Meet in CHZ network, using Moralis
-
 ## Configuration Process
 
 Follow these steps to properly configure your environment for the application.
